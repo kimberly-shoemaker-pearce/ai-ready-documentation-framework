@@ -6,8 +6,7 @@ Transforming tribal knowledge into structured, AI-readable process intelligence.
 ---
 
 ## Overview  
-This framework demonstrates how employees can use Microsoft Teams, Copilot, and SharePoint to capture Level 4 and Level 5 business process documentation.  
-By translating daily work into structured narratives and work instructions, leadership can identify automation opportunities and accelerate AI innovation.  
+This framework demonstrates how employees can use Microsoft Teams, Copilot, and SharePoint to capture Level 4 and Level 5 business process documentation.  By translating daily work into structured narratives and work instructions, leadership can identify automation opportunities and accelerate AI innovation.  
 
 ---
 
