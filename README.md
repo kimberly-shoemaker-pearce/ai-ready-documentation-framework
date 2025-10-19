@@ -1,6 +1,6 @@
-# AI-Ready Level 4/5 Process Documentation Framework  
+# AI-Ready Levels 4/5 Process Documentation Framework  
 
-The **"Level 4/5 Framework"** provides an easy, repeatable way for every employee to document their work processes using tools already available in their organization’s Microsoft 365 ecosystem:  
+The **"Levels 4/5 Framework"** provides an easy, repeatable way for every employee to document their work processes using tools already available in their organization’s Microsoft 365 ecosystem:  
 
 - **Microsoft Teams** — to record and capture process knowledge  
 - **Copilot** — to draft and structure process narratives and work instructions  
