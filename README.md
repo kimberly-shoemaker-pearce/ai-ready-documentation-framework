@@ -12,8 +12,8 @@ By translating daily work into structured narratives and work instructions, lead
 ---
 
 ## Example Processes  
-- [Help Desk Ticket Assignment – Level 4 Process Narrative](Level4_ProcessNarrative_HelpDesk.md)  
-- [Help Desk Ticket Assignment – Level 5 Work Instructions](Level5_WorkInstructions_HelpDesk.md)  
+- [Assigning a Help Desk Ticket – Level 4 Process Narrative](HelpDesk_Level4_ProcessNarrative.md)  
+- [Assigning a Help Desk Ticket – Level 5 Work Instructions](HepDesk_Level5_WorkInstructions.md)  
 - [Meeting Notes & Minutes – Level 4 Process Narrative](Level4_ProcessNarrative_MeetingMinutes.md)  
 - [Meeting Notes & Minutes – Level 5 Work Instructions](Level5_WorkInstructions_MeetingMinutes.md)  
 
