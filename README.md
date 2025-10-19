@@ -1,5 +1,4 @@
-# Kimberly Shoemaker Pearce
-### AI-Ready Process Documentation Framework  
+# AI-Ready Level 4 and 5 Process Documentation Framework  
 
 Transforming tribal knowledge into structured, AI-readable process intelligence.  
 
