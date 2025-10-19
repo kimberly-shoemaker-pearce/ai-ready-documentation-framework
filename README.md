@@ -1,8 +1,13 @@
 # AI-Ready Level 4 and 5 Process Documentation Framework  
 
-This framework shows how employees can use **Microsoft Teams**, **Copilot**, and **SharePoint** to capture and manage Level 4 and Level 5 business process documentation.
+The **Level 4/5 Framework** provides an easy, repeatable way for every employee to document their work processes using tools already available in their organization’s Microsoft 365 ecosystem:  
+
+- **Microsoft Teams** — to record and capture process knowledge  
+- **Copilot** — to draft and structure process narratives and work instructions  
+- **SharePoint** — to store and manage finalized documentation  
 
 ### Documentation Levels
+This framework enables employees to capture the “how” of their daily work and translate it into clear, usable process documentation at process documentation levels 4 and 5:
 
 - **Level 4 — Process Narratives:** describe who performs each activity, what they do, and when it occurs within the workflow.  
 - **Level 5 — Work Instructions:** provide detailed, task-by-task guidance that supports the activities defined in the Level 4 narrative.
@@ -24,6 +29,6 @@ I will create the following level 4 and 5 process documentation:
 - [Creating Meeting Minutes – Level 5 Work Instructions](MeetingMinutes_Level5_WorkInstructions.md)  
 
 ## Author  
-**Kimberly Shoemaker Pearce**  
-Process Documentation Architect  
+**Kimberly Shoemaker Pearce** <br> 
+Architect of the AI-Ready Level 4 and 5 Process Documentation Framework (aka: Level 4/5 Framework)<br>
 [LinkedIn Profile](https://www.linkedin.com/in/kimberlydenisepearce/)
