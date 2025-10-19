@@ -1,6 +1,6 @@
-# Level 4 Process Narrative – Help Desk Ticket Assignment  
+# Level 4 Process Narrative – Assigning a Help Desk Ticket
 
-*Placeholder:* This document will describe the Level 4 process narrative for Help Desk Ticket Assignment as part of the AI-Ready Process Documentation Framework.  
+*Placeholder:* This document will describe the Level 4 process narrative for assigning a help desk ticke as part of the AI-Ready Process Documentation Framework.  
 
 ---
 ## Overview  
