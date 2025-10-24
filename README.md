@@ -19,14 +19,6 @@ Maintaining both levels of documentation creates clarity, consistency, and readi
 - **Employees** gain role clarity through well-written process narratives and achieve task mastery through precise work instructions.  
 - **Employers** gain visibility into repeatable processes, enabling them to identify automation opportunities and accelerate AI-driven innovation. 
 
-### Level 2 Context Diagram 
-
-## Example Processes 
-I will create the following level 4 and 5 process documentation:
-- [Assigning a Help Desk Ticket – Level 4 Process Narrative](HelpDesk_Level4_ProcessNarrative.md)  
-- [Assigning a Help Desk Ticket – Level 5 Work Instructions](HepDesk_Level5_WorkInstructions.md)  
-- [Creating Meeting Minutes – Level 4 Process Narrative](MeetingMinutes_Level4_ProcessNarrative.md)  
-- [Creating Meeting Minutes – Level 5 Work Instructions](MeetingMinutes_Level5_WorkInstructions.md)  
 
 ## Author  
 **Kimberly Shoemaker Pearce** <br> 
